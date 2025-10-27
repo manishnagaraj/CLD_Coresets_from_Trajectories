@@ -45,7 +45,7 @@ python get_loss_values.py --data_path <DATA_DIR> \
   --dataset CIFAR100 --model_arch resnet18 
 ```
 
-### 2) Compute and store CDL
+### 2) Compute and store CLD
 
 ```bash
 python Compute_CLD_scores.py --loss_path <PATH_TO_/Scores/..._losses.pickle>
