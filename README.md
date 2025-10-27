@@ -41,7 +41,7 @@ You can also manually create an environment ensuring the following packages are 
 **Default behavior (post-epoch eval on train):**
 
 ```bash
-python Get_loss_values.py --data_path <DATA_DIR> \
+python get_loss_values.py --data_path <DATA_DIR> \
   --dataset CIFAR100 --model_arch resnet18 
 ```
 
