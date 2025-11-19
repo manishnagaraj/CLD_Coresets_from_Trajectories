@@ -97,6 +97,7 @@ nagaraj2025coresets,
 title={Coresets from Trajectories: Selecting Data via Correlation of Loss Differences},
 author={Manish Nagaraj and Deepak Ravikumar and Kaushik Roy},
 journal={Transactions on Machine Learning Research},
+issn={2835-8856},
 year={2025},
 url={https://openreview.net/forum?id=QY0pbZTWJ9},
 note={}
